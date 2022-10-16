@@ -23,7 +23,7 @@ View our list of contributors [here](https://github.com/Bennykillua/Everything-D
 
 ## Porfilio and getting that job and Internship!
 
-# Data communitiesa, Meetups, and conferences
+# Data communities, Meetups, and conferences
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
 
