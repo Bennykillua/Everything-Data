@@ -21,15 +21,15 @@ View our list of contributors [here](https://github.com/Bennykillua/Everything-D
 # Learning resources
 
 
-### Porfilio and getting that job and Internship!
+## Porfilio and getting that job and Internship!
 
-### Data communitiesa, Meetups, and conferences
+# Data communitiesa, Meetups, and conferences
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
 
-## Need to contact someone?
+# Need to contact someone?
 
-You can reach out;
+You can reach out to:
 
 - Benny Ifeanyi on [Twitter](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
 
