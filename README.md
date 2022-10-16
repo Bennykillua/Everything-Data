@@ -33,7 +33,7 @@ You can reach out to:
 
 - Benny Ifeanyi on [Twitter](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
 
-- Temidayo Andrew Omoniyi on [Twitter](https://twitter.com/kiddojazz) or [Linkedin](https://www.linkedin.com/in/temidayo-omoniyi-mct/?originalSubdomain=ng) or 
+- Temidayo Andrew Omoniyi on [Twitter](https://twitter.com/kiddojazz) or [Linkedin](https://www.linkedin.com/in/temidayo-omoniyi-mct/?originalSubdomain=ng)
 
 The GitHub Octodex images used in this repo was gotten from the [offical website](https://octodex.github.com/)
 
